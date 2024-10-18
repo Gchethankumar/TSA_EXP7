@@ -1,7 +1,9 @@
+### Developed By : G Chethan Kumar
+### Register No. : 212222240022
+### Date : 
+
+
 # Ex.No: 07                                       AUTO REGRESSIVE MODEL
-### Date: 
-
-
 
 ### AIM:
 To Implementat an Auto Regressive Model using Python
